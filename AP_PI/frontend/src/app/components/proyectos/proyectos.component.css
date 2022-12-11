@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+.proyectos {
+  font-family: "Open Sans", sans-serif;
+  margin: 5%;
+}
+
+h2, h3{
+  margin-bottom: 1%;
+}
+
+p, button{
+  margin-bottom: 0.5%;
+}

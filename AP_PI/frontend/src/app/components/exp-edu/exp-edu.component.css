@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.educacion{
+    font-family: 'Open Sans', sans-serif;
+    margin: 5% 5% 5% 5%;
+    border-top: solid 2px rgb(124, 57, 184);
+    border-bottom: solid 2px rgb(124, 57, 184);
+}
+
+.row{
+    /* margin-top: 3%; */
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.edu{
+    display: flex;
+    align-items: center;
+    margin-bottom: 4%;
+}
+
+p{
+    font-weight: lighter;
+    font-size: 13px;
+}
+
+h4{
+    margin-left: 2%;
+}
+
+h2{
+    margin-top: 1%;
+}
+
+img{
+    width: 15%;
+    border-radius: 5%;
+}
+
+#guayerd{
+    width: 10%;
+}
